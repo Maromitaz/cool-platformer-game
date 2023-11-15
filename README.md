@@ -106,7 +106,7 @@ It's in {project's directory/folder}/bin/{Your configuration}/Game/
 
 I hope it was helpful 
 
-![][smile.png]
+![silly smile image](smile.png)
 
 # License
 
