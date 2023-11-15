@@ -104,7 +104,9 @@ I'm truly sorry for you. May God give you peace in your troubled mind.
 
 It's in {project's directory/folder}/bin/{Your configuration}/Game/
 
-I hope it was helpful ![][smile.png]
+I hope it was helpful 
+![][smile.png]
+
 # License
 
 This is free and unencumbered software released into the public domain.
